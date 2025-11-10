@@ -1,0 +1,1 @@
+This is a test memory created by Serena integration test

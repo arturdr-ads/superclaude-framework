@@ -1,0 +1,19 @@
+{
+  "plugin_name": "superclaude",
+  "plugin_version": "0.4.0",
+  "plugin_description": "SuperClaude Framework - Advanced AI development framework with specialized agents and MCP integrations",
+  "author_name": "SuperClaude Team",
+  "homepage_url": "https://superclaude.netlify.app",
+  "repository_url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "ai",
+    "framework",
+    "mcp",
+    "agents",
+    "development"
+  ],
+  "marketplace_name": "SuperClaude Framework",
+  "marketplace_description": "Advanced AI development framework with specialized agents and MCP integrations"
+}
