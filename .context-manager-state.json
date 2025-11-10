@@ -1,0 +1,14 @@
+{
+  "cache": {
+    "manager_test": {
+      "value": "valor_do_gerenciador",
+      "expiresAt": 1762652859596
+    },
+    "system_test_1762649743": {
+      "value": "test_value_1762649743",
+      "expiresAt": 1762649803100
+    }
+  },
+  "contextStore": {},
+  "timestamp": "2025-11-10T12:34:14.597Z"
+}

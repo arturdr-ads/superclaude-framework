@@ -1,0 +1,18 @@
+Status das MCPs conectadas:
+
+✅ MCPs com chaves API funcionando:
+- Context7 (Documentação) - API key fornecida e funcionando
+- Morph Fast Apply (Edição de código) - API key fornecida e funcionando
+
+✅ MCPs funcionando sem chave API necessária:
+- Tavily (Busca na web) - Funciona em modo básico
+- Sequential Thinking (Raciocínio estruturado) - Funciona completamente
+- Magic (Componentes UI) - Funciona completamente
+- Playwright (Automação de navegador) - Funciona completamente
+- Chrome DevTools (Debugging) - Funciona completamente
+- Serena (Análise de código) - Funciona completamente
+
+⚠️ MCPs que podem precisar de chave API para funcionalidade premium:
+- Tavily - Funciona em modo básico, mas pode precisar de chave para uso completo
+
+✅ Todas as MCPs principais estão conectadas e funcionando!
